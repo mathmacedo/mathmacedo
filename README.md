@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋. My name is Matheus Macedo, I've been working as Front-End Developer since 2018 and currently I'm front-end developer at PaseHidrometria.
+
+In my free time I like to play (and watch) soccer (soccer), to watch movies (film_strip) and series (tv), to read books (books), to listen to music (musical_note) and eventually I like to philosophize about life with a beer (beer).
 
 <!--
 **mathmacedo/mathmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
